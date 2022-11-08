@@ -1,0 +1,4 @@
+enum RestMethod{
+  GET,
+  POST
+}
